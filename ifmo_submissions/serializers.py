@@ -12,5 +12,5 @@ class ScoreAnnotationSerializer(serializers.ModelSerializer):
             'annotation_type',
             'creator',
             'reason',
-        )                                                               )
+        )
 
