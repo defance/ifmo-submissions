@@ -8,7 +8,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='ifmo-submissions',
-    version='4.0',
+    version='4.1',
     install_requires=[
     ],
     packages=['ifmo_submissions'],
